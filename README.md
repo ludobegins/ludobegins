@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+My name is Ludovic. I'm a *mechanical* engineer aspiring to become a *software* engineer.
+
+- 🔭 I’m currently working on my first full stack webpage
+- 🌱 I’m currently learning web development
+- 👯 I’m looking to collaborate on fun projects
+- 🤔 I’m looking for help with Angular and geo libraries
+- 💬 Ask me about renewable energy or cats
+- 📫 How to reach me: ludo.beghin@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: The first time I programmed was in [Algobox](https://fr.wikipedia.org/wiki/Algobox)
+
+##### Programming stats this week
 <!--START_SECTION:waka-->
 
 ```text
@@ -12,18 +24,3 @@ JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-<!--
-**ludobegins/ludobegins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
