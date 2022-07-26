@@ -3,7 +3,7 @@
 My name is Ludovic. I'm a *mechanical* engineer aspiring to become a *software* engineer.
 
  🔭 I’m currently working on my first full stack webpage<br/>
- 🌱 I’m currently learning Angular, Flask, PostgreSQL<br/>
+ 🌱 I’m currently learning TypeScript, Angular, Flask, PostgreSQL<br/>
  👯 I’m looking to collaborate on fun projects<br/>
  🤔 I’m looking for help with Angular and geo libraries<br/>
  💬 Ask me about renewable energy or cats<br/>
