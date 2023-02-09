@@ -15,16 +15,16 @@ My name is Ludovic. I'm a *mechanical* engineer aspiring to become a *software* 
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 January 2023 - To: 06 February 2023
+From: 08 January 2023 - To: 07 February 2023
 
-Total Time: 60 hrs 51 mins
+Total Time: 62 hrs 48 mins
 
-Python       33 hrs 43 mins  ██████████████░░░░░░░░░░░   55.38 %
-TypeScript   23 hrs 6 mins   █████████▒░░░░░░░░░░░░░░░   37.96 %
-HTML         1 hr 50 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-CSV          49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-SCSS         23 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-JavaScript   20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Python       34 hrs 23 mins  █████████████▓░░░░░░░░░░░   54.71 %
+TypeScript   24 hrs 4 mins   █████████▓░░░░░░░░░░░░░░░   38.31 %
+HTML         2 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+CSV          49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+SCSS         23 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+JavaScript   20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
