@@ -3,7 +3,7 @@
 My name is Ludovic. I'm a *mechanical* engineer aspiring to become a *software* engineer.
 
  🔭 I’m currently working on a wildfire management platform<br/>
- 🌱 I’m currently learning TypeScript, Angular, Flask, Docker<br/>
+ 🌱 I’m currently learning TypeScript, Angular, FastAPI, Docker<br/>
  👯 I’m looking to collaborate on open source projects<br/>
  🤔 I’m looking for help with C++/Python bindings<br/>
  💬 Ask me about renewable energy or cats<br/>
