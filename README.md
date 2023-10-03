@@ -15,15 +15,15 @@ My name is Ludovic. I'm a *mechanical* engineer aspiring to become a *software* 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2023 - To: 30 September 2023
+From: 01 September 2023 - To: 01 October 2023
 
-Total Time: 36 hrs 12 mins
+Total Time: 33 hrs 39 mins
 
-Python         19 hrs 40 mins  █████████████▓░░░░░░░░░░░   54.33 %
-TypeScript     8 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.41 %
-Prolog         3 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
-HTML           1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Bash           58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Python         19 hrs 15 mins  ██████████████▒░░░░░░░░░░   57.24 %
+TypeScript     6 hrs 49 mins   █████░░░░░░░░░░░░░░░░░░░░   20.30 %
+Prolog         3 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
+HTML           1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Bash           58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 ```
 
 <!--END_SECTION:waka-->
