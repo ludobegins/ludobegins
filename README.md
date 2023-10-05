@@ -15,7 +15,7 @@ My name is Ludovic. I'm a *mechanical* engineer aspiring to become a *software* 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2023 - To: 02 October 2023
+From: 03 September 2023 - To: 03 October 2023
 
 Total Time: 26 hrs 50 mins
 
