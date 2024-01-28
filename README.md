@@ -14,7 +14,7 @@ My name is Ludovic. I'm a full-stack web and GIS developer.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2023 - To: 25 January 2024
+From: 27 December 2023 - To: 26 January 2024
 
 Total Time: 27 hrs 25 mins
 
