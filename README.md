@@ -14,15 +14,15 @@ My name is Ludovic. I'm a full-stack web and GIS developer.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2024 - To: 31 July 2024
+From: 02 July 2024 - To: 01 August 2024
 
-Total Time: 44 hrs 35 mins
+Total Time: 45 hrs 1 min
 
-Python       23 hrs 43 mins  █████████████▒░░░░░░░░░░░   52.82 %
-TypeScript   15 hrs 53 mins  █████████░░░░░░░░░░░░░░░░   35.38 %
-HTML         1 hr 22 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-JSON         1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-PowerShell   52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Python       26 hrs 7 mins   ██████████████▒░░░░░░░░░░   56.99 %
+TypeScript   13 hrs 44 mins  ███████▒░░░░░░░░░░░░░░░░░   29.96 %
+HTML         1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+JSON         1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+PowerShell   52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
